@@ -1,0 +1,1 @@
+C:\Users\user\Documents\rust\assign\ 1\sorting_library\target\debug\libsorting_library.rlib: C:\Users\user\Documents\rust\assign\ 1\sorting_library\src\lib.rs C:\Users\user\Documents\rust\assign\ 1\sorting_library\src\sorting.rs
