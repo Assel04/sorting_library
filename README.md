@@ -110,3 +110,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - **Sorting Algorithms**: Describes each sorting algorithm provided by the library.
 - **Examples**: Includes demo screenshots or images showcasing the sorting algorithms in action.
 - **License**: Mentions the license under which the project is distributed. In this case, it's the MIT License.
+
+https://github.com/AsselK2023/sorting_library/blob/main/LICENSE
