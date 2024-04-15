@@ -11,4 +11,5 @@ To use this library, simply import the sorting algorithms in your Rust code:
 ### Quick Sort
 
 Quick sort is a divide-and-conquer algorithm that partitions an array into smaller sub-arrays and recursively sorts them.
-<img src="https://github.com/AsselK2023/sorting_library/blob/main/111.JPG" width="300">
+
+<img src="https://github.com/AsselK2023/sorting_library/blob/main/111.JPG" width="400">
