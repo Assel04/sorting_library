@@ -46,7 +46,7 @@ fn main() {
     quick_sort(&mut integers);
     println!("Quick sort for integers: {:?}", integers);
 
-  let mut strings = vec!["apple", "banana", "cherry", "date", "fig"];
+  let mut strings = vec!["banana", "fig", "cherry", "apple", "date"];
     quick_sort(&mut strings);
     println!("Quick sort for strings: {:?}", strings);
 
@@ -62,7 +62,7 @@ fn main() {
     selection_sort(&mut integers);
     println!("Selection sort for integers: {:?}", integers);
 
-  let mut strings = vec!["apple", "banana", "cherry", "date", "fig"];
+  let mut strings = vec!["banana", "fig", "cherry", "apple", "date"];
     selection_sort(&mut strings);
     println!("Selection sort for strings: {:?}", strings);
 
@@ -78,7 +78,7 @@ fn main() {
     insertion_sort(&mut integers);
     println!("Insertion sort for integers: {:?}", integers);
 
-  let mut strings = vec!["apple", "banana", "cherry", "date", "fig"];
+  let mut strings = vec!["banana", "fig", "cherry", "apple", "date"];
     insertion_sort(&mut strings);
     println!("Insertion sort for strings: {:?}", strings);
 
@@ -94,7 +94,7 @@ fn main() {
     merge_sort(&mut integers);
     println!("Merge sort for integers: {:?}", integers);
 
-  let mut strings = vec!["apple", "banana", "cherry", "date", "fig"];
+  let mut strings = vec!["banana", "fig", "cherry", "apple", "date"];
     merge_sort(&mut strings);
     println!("Merge sort for strings: {:?}", strings);
 
